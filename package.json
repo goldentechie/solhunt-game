@@ -95,7 +95,8 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "initialize": "node scrips/initializeGameAdmin.js"
+    "initialize": "node scripts/initializeGameAdmin.js",
+    "deploy": "npx surge build solhunt.surge.sh"
   },
   "eslintConfig": {
     "extends": [
