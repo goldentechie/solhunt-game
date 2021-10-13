@@ -9,8 +9,7 @@
   "scripts": {
     "build": "anchor build",
     "deploy": "anchor deploy && ./copy-idls.sh",
-    "test": "mocha -t 1000000 --require @babel/register tests/",
-    "bd": "npm run build && npm run deploy"
+    "test": "mocha -t 1000000 --require @babel/register tests/"
   },
   "dependencies": {
     "@babel/register": "7.15.3",

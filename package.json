@@ -94,8 +94,7 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "initialize": "node scripts/initializeGameAdmin.js",
-    "deploy": "npx surge build de-dungeon-crawlers.surge.sh"
+    "initialize": "node scrips/initializeGameAdmin.js"
   },
   "eslintConfig": {
     "extends": [

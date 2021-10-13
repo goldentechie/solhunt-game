@@ -69,7 +69,7 @@ const AppProviderProvider: React.FC<AppProviderProviderProps> = ({
     const _wallet = await connectWallet();
     setWallet(_wallet);
     const provider = new SolanaProvider(
-      new Connection(SolanaNetworks.DEV),
+      new Connection(SolanaNetworks.LOCAL),
       _wallet,
       {}
     );
