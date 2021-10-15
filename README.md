@@ -13,11 +13,14 @@
   
   <p align="center"><a href="#">Watch Demo Video on YouTube</a></p>
 
+# ARCHITECTURE
+
+![image](./screenshots/flow.jpg)
+
 # FEATURES
 
 SOLHunt is a lightweight pixel Play To Earn dungeon game built on the Solana Blockchain, built with Phaser. Our motivation is to enable users to own what you earn
 
-**GAME DATA IS STORED ON-CHAIN WHICH MEANS THAT THE USER CAN'T COLLECT TREASURE (SPL TOKENS) PREVIOUSLY COLLECTED**
 - 🎮 Secure authentication with phantom wallet
 - 🎮 In Game Store
 - 🎮 NFT rewards as Level Passes
@@ -30,7 +33,7 @@ SOLHunt is a lightweight pixel Play To Earn dungeon game built on the Solana Blo
 
 <p>
  <img src="https://github.com/SOLBROS/SolHunt-GamePlay/blob/master/src/assets/game%20github.png" alt="Logo" width="480" height="240">
- <img src="https://github.com/SOLBROS/SolHunt-GamePlay/blob/master/src/assets/dao.png" alt="Logo" width="460" height="220">
+ <img src="https://github.com/SOLBROS/SolHunt-GamePlay/blob/master/src/assets/dao.png" alt="Logo" width="480" height="240">
 </p>
 
 ![image](https://user-images.githubusercontent.com/43913734/137470795-cfd95f0c-2649-448f-a7ce-18c8249a79fd.png)
@@ -84,7 +87,7 @@ npm start
 
 view game at [http://localhost:3000/](http://localhost:3000/)
 
-### Gameplay
+### Screenshots
 
 ![image](./screenshots/1.png)
 
@@ -97,7 +100,3 @@ view game at [http://localhost:3000/](http://localhost:3000/)
 ![image](./screenshots/5.png)
 
 ![image](./screenshots/6.png)
-![image](https://user-images.githubusercontent.com/43913734/137474402-21b6b7fc-68e7-49ad-b5a8-0abb6d4baa29.png)
-
-
-```
